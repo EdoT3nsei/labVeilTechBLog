@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Blog LabVeilTech'
-theme = 'PaperMod'
+theme = 'hugo-PaperMod'
 
 [params]
     [params.homeInfoParams]
