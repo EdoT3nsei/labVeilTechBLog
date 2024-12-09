@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Article 4</title>
-      <link>http://localhost:1313/posts/article_4/</link>
+      <link>http://localhost:1313/posts/article_5/</link>
       <pubDate>Fri, 01 Nov 2024 08:14:36 +0100</pubDate>
-      <guid>http://localhost:1313/posts/article_4/</guid>
+      <guid>http://localhost:1313/posts/article_5/</guid>
       <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
 &lt;h2 id=&#34;test-2&#34;&gt;Test 2&lt;/h2&gt;
 &lt;h3 id=&#34;test-3&#34;&gt;Test 3&lt;/h3&gt;
@@ -41,10 +41,10 @@
 &lt;p&gt;oidsjféljk vdélksaà&amp;lt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Article 4</title>
-      <link>http://localhost:1313/posts/article_5/</link>
+      <title>Article 44</title>
+      <link>http://localhost:1313/posts/article_4/</link>
       <pubDate>Fri, 01 Nov 2024 08:14:36 +0100</pubDate>
-      <guid>http://localhost:1313/posts/article_5/</guid>
+      <guid>http://localhost:1313/posts/article_4/</guid>
       <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
 &lt;h2 id=&#34;test-2&#34;&gt;Test 2&lt;/h2&gt;
 &lt;h3 id=&#34;test-3&#34;&gt;Test 3&lt;/h3&gt;
@@ -56,7 +56,7 @@
       <link>http://localhost:1313/posts/article_3/</link>
       <pubDate>Fri, 01 Nov 2024 08:14:36 +0100</pubDate>
       <guid>http://localhost:1313/posts/article_3/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://datavisual.blog/2023/12/25/empowering-change-elevating-your-data-visualization-career-through-viz-for-social-good/&#34;&gt;Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good - écrit par Frederic Fery&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://datavisual.blog/2023/12/25/empowering-change-elevating-your-data-visualization-career-through-viz-for-social-good/&#34;&gt;Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h1&gt;
 &lt;p&gt;Cette article, écrit par Frederic Fery, parle de &lt;a href=&#34;https://www.vizforsocialgood.com/&#34;&gt;Viz For Social Good&lt;/a&gt;, une association qui a pour but de relier des passionnée de visualisation de donnée avec des organisation humanitaires.&lt;/p&gt;
 &lt;p&gt;Monsieur Fery, en temps que bénévole dans l’association depuis 2018, explique les bénéfices que peuvent rapporter une collaboration avec Viz For Social Good pour la carrière d’un data visualizer.&lt;/p&gt;</description>
