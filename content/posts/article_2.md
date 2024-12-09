@@ -7,7 +7,7 @@ title = 'The WTF moment'
     alt = 'this is an alt'
     caption = 'this is a caption'
 +++
-[Lien de l'article original](https://junkcharts.typepad.com/#)
+[The WFT moment - écrit par Kaiser Fung](https://junkcharts.typepad.com/junk_charts/2024/12/the-wtf-moment.html)
 # Résumé de l’article
 
 Écrit par le consultant en data science Kaiser Fung, cet article traite des moment où, lorsqu’on regarde une visualisation de donnée, on se dit “mais WTF” en observant quelque chose qui nous semble sortir de l’ordinaire.

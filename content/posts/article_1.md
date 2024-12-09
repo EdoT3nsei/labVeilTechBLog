@@ -6,32 +6,19 @@ title = '10 Best Data Visualization Tools for 2025'
     image = 'img/cover_article_1.png'
     alt = 'this is an alt'
 +++
-[Lien de l'article original](https://vegavid.com/blog/data-visualization-tools/#)
+[10 Best Data Visualization Tools for 2025 - auteur non cité](https://vegavid.com/blog/data-visualization-tools/#)
 # Résumé de l’article
 
 Cet article parle des différents outils de visualisation de données disponibles sur le marché et des meilleurs choix à adopter en fonction des nos besoins.
 
-## Caractéristiques clé
+L’auteur détaille les caractéristiques clés à prendre en considération lors du choix de logiciel à adopter. Parmi elles, on peut retrouver la flexibilité, l’utilisation de l’IA ou encore la collaboration en temps réel entre utilisateurs.
 
-Dans cette section de l’article, l’auteur détaille les caractéristiques importantes à prendre en compte lors du choix de logiciel de visualisation de donnée.
-
-### Interface User-Friendly
-
-Une interface intuitive laissant des utilisateurs de tout niveaux naviguer.
-
-### Flexibilité et customisation
-
-La possibilité de pouvoir customiser ses visualisation de manière avancée.
-
-### Interactivité
-
-La possibilité d’interagir avec le jeu de donnée de manière dynamique.
+Ensuite, l’auteur liste les 10 meilleurs outils sur le marché pour débuter l’année 2025.
 
 # Pourquoi cet article est important pour moi ?
 
-# Critique personnelle de l’article
+Cette article est important pour moi car il synthétise les principaux outils de visualisation de donnée sur le marché actuel. Il m’a permit de connaître les caractéristiques importantes à prendre en compte lors d’un choix de logiciel et m’a permis de découvrir de nombreux outils dont je ne connaissait pas l’existence.
 
-J’aurai bien aimé que les caractéristiques clés des outils soient réutilisée dans la liste des logiciels. Par exemple : Power BI (interactivité à 75% etc…).
+# Comment utiliser les connaissances acquises dans cet article ?
 
-Cela aurait permis de mieux visualiser quelles étaient les forces et les faiblesses de chaque logiciels et de mieux cerner leurs spécificités.
-
+Cette article pourra m’être utile le jour où je devrai choisir moi-même, ou pour un client, un logiciel de visualisation de donnée. Suivant la date, peut être que certaines informations seront éronées, mais les caractéristiques clés seront encore à mon avis relativement similaire.
