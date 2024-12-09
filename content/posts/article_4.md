@@ -1,29 +1,24 @@
 +++
-date = '2024-11-01T08:14:36+01:00'
+date = '2024-11-01T08:44:29+01:00'
 draft = false
-title = 'Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good'
+title = '10 Best Data Visualization Tools for 2025'
 [cover]
-    image = 'img/cover_article_2.webp'
+    image = 'img/cover_article_1.png'
     alt = 'this is an alt'
-    caption = 'this is a caption'
 +++
-[Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good](https://datavisual.blog/2023/12/25/empowering-change-elevating-your-data-visualization-career-through-viz-for-social-good/)
+[10 Best Data Visualization Tools for 2025 - auteur non cité](https://vegavid.com/blog/data-visualization-tools/#)
 # Résumé de l’article
 
-Cette article, écrit par Frederic Fery, parle de [Viz For Social Good](https://www.vizforsocialgood.com/), une association qui a pour but de relier des passionnée de visualisation de donnée avec des organisation humanitaires.
+Cet article parle des différents outils de visualisation de données disponibles sur le marché et des meilleurs choix à adopter en fonction des nos besoins.
 
-Monsieur Fery, en temps que bénévole dans l’association depuis 2018, explique les bénéfices que peuvent rapporter une collaboration avec Viz For Social Good pour la carrière d’un data visualizer.
+L’auteur détaille les caractéristiques clés à prendre en considération lors du choix de logiciel à adopter. Parmi elles, on peut retrouver la flexibilité, l’utilisation de l’IA ou encore la collaboration en temps réel entre utilisateurs.
 
-Parmi eux, on peut retrouver le fait de diriger des projets ayant des impacts concrets, le réseautage que permet ce genre d’initiatives ou encore le fait que cela permet d’ouvrir le champ des possibles à des projets qui sortent de notre ordinaire.
+Ensuite, l’auteur liste les 10 meilleurs outils sur le marché pour débuter l’année 2025.
 
 # Pourquoi cet article est important pour moi ?
 
-Cet article est important pour moi car il m’a permis d’en apprendre plus sur un monde qui m’était totalement inconnu : le bénévolat en visualisation de donnée.
-
-Étant moi-même bénévole dans un groupe scout depuis plus de 10 ans, ce genre d’approche me parle énormément et je me verrai bien y participer dans quelques années.
+Cette article est important pour moi car il synthétise les principaux outils de visualisation de donnée sur le marché actuel. Il m’a permit de connaître les caractéristiques importantes à prendre en compte lors d’un choix de logiciel et m’a permis de découvrir de nombreux outils dont je ne connaissait pas l’existence.
 
 # Comment utiliser les connaissances acquises dans cet article ?
 
-Même si je n’ai actuellement ni le temps ni la possibilité financière de participer à ce genre de projet, je vais garder l’idée dans un coin de ma tête et suivre de près les prochains projet de Viz For Social Good.
-
-Je pourrai utiliser les connaissances que cet article m’a apporté lorsque j’aurai le temps de me dédier à des projets de ce type.
+Cette article pourra m’être utile le jour où je devrai choisir moi-même, ou pour un client, un logiciel de visualisation de donnée. Suivant la date, peut être que certaines informations seront éronées, mais les caractéristiques clés seront encore à mon avis relativement similaire.
