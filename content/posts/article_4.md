@@ -1,12 +1,12 @@
 +++
 date = '2024-11-01T08:44:29+01:00'
 draft = false
-title = '10 Best Data Visualization Tools for 2025'
+title = '11 Data Visualization Techniques for Every Use-Case with Examples'
 [cover]
-    image = 'img/cover_article_1.png'
+    image = 'img/cover_article_4.jpeg'
     alt = 'this is an alt'
 +++
-[10 Best Data Visualization Tools for 2025 - auteur non cité](https://vegavid.com/blog/data-visualization-tools/#)
+[11 Data Visualization Techniques for Every Use-Case with Examples - Javier Canales Luna](https://www.datacamp.com/blog/data-visualization-techniques?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
 # Résumé de l’article
 
 Cet article parle des différents outils de visualisation de données disponibles sur le marché et des meilleurs choix à adopter en fonction des nos besoins.
