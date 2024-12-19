@@ -1,10 +1,9 @@
 +++
-date = '2024-11-01T08:44:29+01:00'
+date = '2024-12-02T08:44:29+01:00'
 draft = false
 title = '11 Data Visualization Techniques for Every Use-Case with Examples'
 [cover]
     image = 'img/cover_article_4.jpeg'
-    alt = 'this is an alt'
 +++
 [11 Data Visualization Techniques for Every Use-Case with Examples - Javier Canales Luna](https://www.datacamp.com/blog/data-visualization-techniques?dc_referrer=https%3A%2F%2Fwww.google.com%2F)
 # Résumé de l’article

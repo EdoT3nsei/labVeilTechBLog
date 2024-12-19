@@ -1,11 +1,9 @@
 +++
-date = '2024-11-01T08:21:34+01:00'
+date = '2024-11-06T08:21:34+01:00'
 draft = false
 title = 'The WTF moment'
 [cover]
     image = 'img/image_1_article_2.png'
-    alt = 'this is an alt'
-    caption = 'this is a caption'
 +++
 [The WFT moment - écrit par Kaiser Fung](https://junkcharts.typepad.com/junk_charts/2024/12/the-wtf-moment.html)
 # Résumé de l’article

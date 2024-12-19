@@ -1,10 +1,9 @@
 +++
-date = '2024-11-01T08:44:29+01:00'
+date = '2024-11-03T08:44:29+01:00'
 draft = false
 title = '10 Best Data Visualization Tools for 2025'
 [cover]
     image = 'img/cover_article_1.png'
-    alt = 'this is an alt'
 +++
 [10 Best Data Visualization Tools for 2025 - auteur non cité](https://vegavid.com/blog/data-visualization-tools/#)
 # Résumé de l’article

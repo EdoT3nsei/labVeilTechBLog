@@ -6,22 +6,24 @@
     <description>Recent content in Posts on Blog LabVeilTech</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2024 08:44:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 08:14:36 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>10 Best Data Visualization Tools for 2025</title>
-      <link>http://localhost:1313/posts/article_1/</link>
-      <pubDate>Fri, 01 Nov 2024 08:44:29 +0100</pubDate>
-      <guid>http://localhost:1313/posts/article_1/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://vegavid.com/blog/data-visualization-tools/#&#34;&gt;10 Best Data Visualization Tools for 2025 - auteur non cité&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h1&gt;
-&lt;p&gt;Cet article parle des différents outils de visualisation de données disponibles sur le marché et des meilleurs choix à adopter en fonction des nos besoins.&lt;/p&gt;
-&lt;p&gt;L’auteur détaille les caractéristiques clés à prendre en considération lors du choix de logiciel à adopter. Parmi elles, on peut retrouver la flexibilité, l’utilisation de l’IA ou encore la collaboration en temps réel entre utilisateurs.&lt;/p&gt;</description>
+      <title>Système de veille</title>
+      <link>http://localhost:1313/posts/article_5/</link>
+      <pubDate>Thu, 19 Dec 2024 08:14:36 +0100</pubDate>
+      <guid>http://localhost:1313/posts/article_5/</guid>
+      <description>&lt;h1 id=&#34;système-découte&#34;&gt;Système d’écoute&lt;/h1&gt;
+&lt;h2 id=&#34;the-visualising-data-newsletter&#34;&gt;&lt;strong&gt;The Visualising Data Newsletter&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Je me suis abonné à la newsletter du site &lt;a href=&#34;https://visualisingdata.com/newsletter&#34;&gt;visualisingdata.com&lt;/a&gt;. C’est un site d’articles, de news et d’interview sur le monde la visualisation de donnée sur lequel je suis tombé lors de mes recherches d’articles pour ce blog.&lt;/p&gt;
+&lt;p&gt;Cette newsletter prend la forme d’un mail mensuel.&lt;/p&gt;
+&lt;h2 id=&#34;tldr-newsletters&#34;&gt;TLDR Newsletters&lt;/h2&gt;
+&lt;p&gt;Je me suis inscrit à plusieurs newsletters du site web &lt;a href=&#34;http://tldr.tech&#34;&gt;tldr.tech&lt;/a&gt;. Ce dernier propose plusieurs newsletters sur des domaines différents reliés à la technologie, sous forme d’email journaliers. Je me suis personnellement inscrit à 4 d’entre elles :&lt;/p&gt;</description>
     </item>
     <item>
       <title>11 Data Visualization Techniques for Every Use-Case with Examples</title>
       <link>http://localhost:1313/posts/article_4/</link>
-      <pubDate>Fri, 01 Nov 2024 08:44:29 +0100</pubDate>
+      <pubDate>Mon, 02 Dec 2024 08:44:29 +0100</pubDate>
       <guid>http://localhost:1313/posts/article_4/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.datacamp.com/blog/data-visualization-techniques?dc_referrer=https%3A%2F%2Fwww.google.com%2F&#34;&gt;11 Data Visualization Techniques for Every Use-Case with Examples - Javier Canales Luna&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h1&gt;
@@ -30,9 +32,19 @@
 &lt;p&gt;Ensuite, Javier détaille deux questions à se poser pour choisir la bonne technique selon le contexte :&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good</title>
+      <link>http://localhost:1313/posts/article_3/</link>
+      <pubDate>Mon, 11 Nov 2024 08:14:36 +0100</pubDate>
+      <guid>http://localhost:1313/posts/article_3/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://datavisual.blog/2023/12/25/empowering-change-elevating-your-data-visualization-career-through-viz-for-social-good/&#34;&gt;Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h1&gt;
+&lt;p&gt;Cette article, écrit par Frederic Fery, parle de &lt;a href=&#34;https://www.vizforsocialgood.com/&#34;&gt;Viz For Social Good&lt;/a&gt;, une association qui a pour but de relier des passionnée de visualisation de donnée avec des organisation humanitaires.&lt;/p&gt;
+&lt;p&gt;Monsieur Fery, en temps que bénévole dans l’association depuis 2018, explique les bénéfices que peuvent rapporter une collaboration avec Viz For Social Good pour la carrière d’un data visualizer.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The WTF moment</title>
       <link>http://localhost:1313/posts/article_2/</link>
-      <pubDate>Fri, 01 Nov 2024 08:21:34 +0100</pubDate>
+      <pubDate>Wed, 06 Nov 2024 08:21:34 +0100</pubDate>
       <guid>http://localhost:1313/posts/article_2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://junkcharts.typepad.com/junk_charts/2024/12/the-wtf-moment.html&#34;&gt;The WFT moment - écrit par Kaiser Fung&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h1&gt;
@@ -41,25 +53,14 @@
 &lt;p&gt;L’auteur définit le WTF moment comme le moment où on remarque que le designer de la visualisation a fait quelque chose d’inattendu, nous demandant peut être même de modifier la manière dont on est censé lire le diagramme. Cela peut être par exemple des axes inversés ou que les nombres négatifs sont affichés au dessus des positifs.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Article 4</title>
-      <link>http://localhost:1313/posts/article_5/</link>
-      <pubDate>Fri, 01 Nov 2024 08:14:36 +0100</pubDate>
-      <guid>http://localhost:1313/posts/article_5/</guid>
-      <description>&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
-&lt;h2 id=&#34;test-2&#34;&gt;Test 2&lt;/h2&gt;
-&lt;h3 id=&#34;test-3&#34;&gt;Test 3&lt;/h3&gt;
-&lt;h4 id=&#34;test-4&#34;&gt;Test 4&lt;/h4&gt;
-&lt;p&gt;oidsjféljk vdélksaà&amp;lt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good</title>
-      <link>http://localhost:1313/posts/article_3/</link>
-      <pubDate>Fri, 01 Nov 2024 08:14:36 +0100</pubDate>
-      <guid>http://localhost:1313/posts/article_3/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://datavisual.blog/2023/12/25/empowering-change-elevating-your-data-visualization-career-through-viz-for-social-good/&#34;&gt;Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good&lt;/a&gt;&lt;/p&gt;
+      <title>10 Best Data Visualization Tools for 2025</title>
+      <link>http://localhost:1313/posts/article_1/</link>
+      <pubDate>Sun, 03 Nov 2024 08:44:29 +0100</pubDate>
+      <guid>http://localhost:1313/posts/article_1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vegavid.com/blog/data-visualization-tools/#&#34;&gt;10 Best Data Visualization Tools for 2025 - auteur non cité&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;résumé-de-larticle&#34;&gt;Résumé de l’article&lt;/h1&gt;
-&lt;p&gt;Cette article, écrit par Frederic Fery, parle de &lt;a href=&#34;https://www.vizforsocialgood.com/&#34;&gt;Viz For Social Good&lt;/a&gt;, une association qui a pour but de relier des passionnée de visualisation de donnée avec des organisation humanitaires.&lt;/p&gt;
-&lt;p&gt;Monsieur Fery, en temps que bénévole dans l’association depuis 2018, explique les bénéfices que peuvent rapporter une collaboration avec Viz For Social Good pour la carrière d’un data visualizer.&lt;/p&gt;</description>
+&lt;p&gt;Cet article parle des différents outils de visualisation de données disponibles sur le marché et des meilleurs choix à adopter en fonction des nos besoins.&lt;/p&gt;
+&lt;p&gt;L’auteur détaille les caractéristiques clés à prendre en considération lors du choix de logiciel à adopter. Parmi elles, on peut retrouver la flexibilité, l’utilisation de l’IA ou encore la collaboration en temps réel entre utilisateurs.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

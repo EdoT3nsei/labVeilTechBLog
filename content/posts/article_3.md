@@ -1,11 +1,9 @@
 +++
-date = '2024-11-01T08:14:36+01:00'
+date = '2024-11-11T08:14:36+01:00'
 draft = false
 title = 'Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good'
 [cover]
     image = 'img/cover_article_2.webp'
-    alt = 'this is an alt'
-    caption = 'this is a caption'
 +++
 [Empowering Change: Elevating Your Data Visualization Career through Viz For Social Good](https://datavisual.blog/2023/12/25/empowering-change-elevating-your-data-visualization-career-through-viz-for-social-good/)
 # Résumé de l’article
