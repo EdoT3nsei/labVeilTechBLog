@@ -18,7 +18,7 @@ Parmi eux, on peut retrouver le fait de diriger des projets ayant des impacts co
 
 Cet article est important pour moi car il m’a permis d’en apprendre plus sur un monde qui m’était totalement inconnu : le bénévolat en visualisation de donnée.
 
-Étant moi-même bénévole dans un groupe scout depuis plus de 10 ans, ce genre d’approche me parle énormément et je me verrai bien y participer dans quelques années.
+Étant moi-même bénévole dans un groupe scout depuis plus de 10 ans, ce genre d’approche me parle énormément et je me verrai bien participer à un événement du genre dans quelques années.
 
 # Comment utiliser les connaissances acquises dans cet article ?
 
