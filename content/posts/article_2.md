@@ -55,3 +55,5 @@ Cette article me sera utile pour me questionner quant à la manière dont j’af
 # Comment utiliser les connaissances acquises dans cet article ?
 
 Les connaissances acquises dans cet article me permettront de plus me questionner sur la manière dont les autres personnes vont voir mes visualisations de données. J’aurai peut être plus tendance à demander à des gens d’observer mon travail final pour savoir s’ils ont ce fameux “WTF moment” et si oui, pourquoi et est-ce volontaire ou non ?
+
+En sommes, ces connaissances me seront utiles dès la prochaine visualisation que je créerai car ce sont des principes généraux qui s’adapte à tous les projets de ce type.

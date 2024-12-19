@@ -46,7 +46,7 @@ Javier conclu son article en donnant quatre bonnes pratiques à prendre en compt
 
 Cet article est important pour moi car il résume beaucoup d’aspects liés aux techniques de visualisation de donnée mais pas uniquement. Il m’a permis de connaître des visualisations et également d’apprendre du vocabulaire plus spécifique.
 
-J’ai également beaucoup apprécié la partie des bonnes pratiques.
+J’ai également beaucoup apprécié la partie des bonnes pratiques car ce sont des éléments que je trouve important d’avoir en tête.
 
 # **Comment utiliser les connaissances acquises dans cet article ?**
 
