@@ -2,9 +2,7 @@
 
 Bienvenue sur mon blog dédié à la visualisation de données !
 
-Je m’appelle Emile Donzel et depuis toujours, je suis passionné(e) par la **création**, le **jeu** et l'idée d'explorer des façons de rendre le monde plus clair et compréhensible. 
-
-J’aime concevoir des choses utiles à la société en utilisant l’empathie, la recherche, et une ouverture d’esprit. Dans mon cas, cela s'exprime par la création de visualisations de données claires, esthétiques et fonctionnelles, qui transforment des informations complexes en récits visuels compréhensibles. 
+Je m’appelle Emile Donzel et depuis toujours, je suis passionné par la **création**, le **jeu** et l'idée d'explorer des façons de rendre le monde plus clair et compréhensible. Cela s'exprime dans le domaine professionnel par la création de visualisations de données claires, esthétiques et fonctionnelles, qui transforment des informations complexes en récits visuels compréhensibles. 
 
 # Ikigai
 ![Ikigai](../img/ikigai.png)
