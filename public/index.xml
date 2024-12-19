@@ -69,8 +69,9 @@
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;à-propos-de-moi&#34;&gt;À propos de moi&lt;/h1&gt;
 &lt;p&gt;Bienvenue sur mon blog dédié à la visualisation de données !&lt;/p&gt;
-&lt;p&gt;Je m’appelle Emile Donzel et depuis toujours, je suis passionné(e) par la &lt;strong&gt;création&lt;/strong&gt;, le &lt;strong&gt;jeu&lt;/strong&gt; et l&amp;rsquo;idée d&amp;rsquo;explorer des façons de rendre le monde plus clair et compréhensible.&lt;/p&gt;
-&lt;p&gt;J’aime concevoir des choses utiles à la société en utilisant l’empathie, la recherche, et une ouverture d’esprit. Dans mon cas, cela s&amp;rsquo;exprime par la création de visualisations de données claires, esthétiques et fonctionnelles, qui transforment des informations complexes en récits visuels compréhensibles.&lt;/p&gt;</description>
+&lt;p&gt;Je m’appelle Emile Donzel et depuis toujours, je suis passionné par la &lt;strong&gt;création&lt;/strong&gt;, le &lt;strong&gt;jeu&lt;/strong&gt; et l&amp;rsquo;idée d&amp;rsquo;explorer des façons de rendre le monde plus clair et compréhensible. Cela s&amp;rsquo;exprime dans le domaine professionnel par la création de visualisations de données claires, esthétiques et fonctionnelles, qui transforment des informations complexes en récits visuels compréhensibles.&lt;/p&gt;
+&lt;h1 id=&#34;ikigai&#34;&gt;Ikigai&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;Ikigai&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/ikigai.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
